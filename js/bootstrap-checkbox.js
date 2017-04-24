@@ -68,7 +68,7 @@
     init: function() {
       var fn = this.options.html ? 'html' : 'text';
 
-      this.$element.addClass('hidden');
+      this.$element.hide();
       this.$group.addClass(this.options.baseGroupCls).addClass(this.options.groupCls);
       this.$buttons.addClass(this.options.baseCls).addClass(this.options.cls);
 
