@@ -1,6 +1,6 @@
 {
-  "name": "bootstrap-checkbox",
-  "version": "1.4.0",
+  "name": "bootstrap4-checkbox",
+  "version": "1.0.0",
   "description": "A checkbox component based on Bootstrap framework",
   "keywords": [
     "bootstrap",
@@ -8,24 +8,24 @@
     "jquery-plugin",
     "switch"
   ],
-  "homepage": "https://vsn4ik.github.io/bootstrap-checkbox/",
+  "homepage": "https://github.com/ONTPNET/bootstrap4-checkbox/",
   "author": {
     "name": "Vasily A.",
     "url": "https://github.com/vsn4ik"
   },
-  "repository": "vsn4ik/bootstrap-checkbox",
+  "repository": "/ONTPNET/bootstrap4-checkbox",
   "license": "MIT",
   "files": [
     "dist",
     "js/**/*.js",
     "LICENSE"
   ],
-  "main": "dist/js/bootstrap-checkbox.js",
+  "main": "dist/js/bootstrap4-checkbox.js",
   "scripts": {
     "test": "grunt"
   },
   "devDependencies": {
-    "bootstrap": "~3.3.7",
+    "bootstrap": "~4.0.0-alpha.6",
     "font-awesome": "~4.7.0",
     "grunt": "~1.0.1",
     "grunt-banner": "~0.6.0",
