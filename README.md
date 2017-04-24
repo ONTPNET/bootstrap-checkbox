@@ -33,7 +33,7 @@ For some working examples, visit our [examples](https://vsn4ik.github.io/bootstr
 ## Min Requirements
 
 * Bootstrap v4.0.0-alpha.6
-* jQuery 1.9.1
+* jQuery 3.0.0
 
 
 ## Creators
