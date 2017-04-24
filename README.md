@@ -1,4 +1,4 @@
-# [Bootstrap-checkbox](https://vsn4ik.github.io/bootstrap-checkbox/)
+# [Bootstrap4-checkbox] based on (https://vsn4ik.github.io/bootstrap-checkbox/)
 
 [![Bower version](https://img.shields.io/bower/v/bootstrap-checkbox.svg)](https://github.com/vsn4ik/bootstrap-checkbox)
 [![npm version](https://img.shields.io/npm/v/bootstrap-checkbox.svg)](https://www.npmjs.com/package/bootstrap-checkbox)
